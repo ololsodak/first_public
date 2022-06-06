@@ -15,6 +15,7 @@ of the page in case any test case will fail.
 [pages/elements.py](pages/elements.py) contains helper class to define web elements on web pages.
 
 [tests/test_akusherstvo_*.py](tests/test_akusherstvo_*.py) contains several smoke Web UI tests for Akusherstvo.ru (https://www.akusherstvo.ru/)
+
 Exactly:
 [tests/test_akusherstvo_cart.py](tests/test_akusherstvo_cart.py) contains several smoke Web UI tests for cart of Akusherstvo.ru
 
